@@ -17,4 +17,4 @@ I'm currently learning a handful of things:
 - Godot game engine
 - C++ (to help facilitate game-making)
 
-I will be blogging about my weekly development soon after I upgrade my blog website, which will happen sometime after I finish Odin.
+I will be blogging about my weekly development soon after I upgrade my portfolio website, which will happen sometime after I finish Odin.
