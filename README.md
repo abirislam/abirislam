@@ -15,6 +15,7 @@ I took a small break after finishing up college, but now I'm back and hungry to 
 I'm currently learning a handful of things:
 - Full-stack web-app development through [Odin](https://www.theodinproject.com/)
 - C++
+
 I will be blogging about my weekly development soon after I upgrade my portfolio website, which will happen sometime after I finish Odin.
 
 ### Contact me
